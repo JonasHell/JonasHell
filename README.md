@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ML-based segmentation of challenging EM data
+- 🌱 I’m currently learning test-driven development
+- :mortar_board: I’m currently looking for a PhD in AI/ML
+
 <!--
 **JonasHell/JonasHell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
