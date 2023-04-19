@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Ml-framework to extract biol. information from ExM data
+- 🔭 I’m currently working on a ML-framework to extract biological information from ExM data
 - :mortar_board: I’m currently organizing my PhD project
 - 🌱 I’m currently learning test-driven development
 
