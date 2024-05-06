@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a ML-framework to extract biological information from ExM data
-- :mortar_board: I’m currently organizing my PhD project
-- 🌱 I’m currently learning test-driven development
+- :mortar_board: I’m currently in the middle of my PhD
+- 🌱 I’m currently learning to use type annotations properly
 
 <!--
 **JonasHell/JonasHell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
